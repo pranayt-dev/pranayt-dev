@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Pranay Temkar
 
-<!--
-**pranayt-dev/pranayt-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 PHP / Codeigniter / WordPress Developer  
+🚀 3.5+ Years Experience
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- PHP
+- Codeigniter
+- WordPress
+- MySQL
+- Bootstrap
+- JavaScript
+
+---
+
+## 📌 Projects
+
+### 📰 News Portal
+SEO-friendly news portal with AdSense integration.
+
+### 📋 Tender Portal
+Laravel admin panel with dynamic listing system.
+
+### 🏢 Business Website
+Responsive WordPress business website.
+
+---
+
+## 📫 Contact
+
+- Email: pranaytemkar.dev@gmail.com
+- LinkedIn: linkedin.com/in/pranaytemkar
